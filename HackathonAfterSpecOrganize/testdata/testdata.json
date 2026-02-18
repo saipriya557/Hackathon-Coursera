@@ -1,0 +1,20 @@
+{
+  "universityForm": {
+    "firstName": "Priya",
+    "lastName": "Lingampelli",
+    "email": "asdfghj@gmail.com",
+    "phone": "123456789",
+    "institutionType": "University/4 Year College",
+    "institutionName": "KITSW",
+    "title": "Student",
+    "department": "Other",
+    "needs": "Other",
+    "country": "India",
+    "state": "Andhra Pradesh"
+  },
+  "search": {
+    "courseName": "Web development Courses",
+    "language": "English",
+    "level": "Beginner"
+  }
+}
