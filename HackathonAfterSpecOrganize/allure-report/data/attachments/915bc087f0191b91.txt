@@ -1,0 +1,26 @@
+[LOG]: Available language filters: 58
+[LOG]: Filter 0: English
+(8,548)
+[LOG]: Beginner(3,846)
+[LOG]: Intermediate(3,512)
+[LOG]: Advanced(378)
+[LOG]: Mixed(812)
+[LOG]: Filter 1: Spanish
+(4,215)
+[LOG]: Beginner(2,040)
+[LOG]: Intermediate(1,593)
+[LOG]: Advanced(158)
+[LOG]: Mixed(424)
+[LOG]: Filter 2: French
+(3,985)
+[LOG]: Beginner(1,862)
+[LOG]: Intermediate(1,529)
+[LOG]: Advanced(147)
+[LOG]: Mixed(447)
+[LOG]: Filter 3: Kazakh
+(3,912)
+[LOG]: Beginner(1,725)
+[LOG]: Intermediate(1,585)
+[LOG]: Advanced(160)
+[LOG]: Mixed(442)
+[LOG]: Scenario finished2

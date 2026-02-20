@@ -1,0 +1,390 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - navigation "Banner" [ref=e13]:
+      - list [ref=e14]:
+        - listitem [ref=e15]:
+          - link "For Individuals" [ref=e16] [cursor=pointer]:
+            - /url: https://www.coursera.org/
+            - generic [ref=e17]: For Individuals
+        - listitem [ref=e18]:
+          - link "For Businesses" [ref=e19] [cursor=pointer]:
+            - /url: https://www.coursera.org/business
+            - generic [ref=e20]: For Businesses
+        - listitem [ref=e21]:
+          - link "For Universities" [ref=e22] [cursor=pointer]:
+            - /url: https://www.coursera.org/campus
+            - generic [ref=e23]: For Universities
+        - listitem [ref=e24]:
+          - link "For Governments" [ref=e25] [cursor=pointer]:
+            - /url: https://www.coursera.org/government
+            - generic [ref=e26]: For Governments
+    - generic [ref=e31]:
+      - link "Coursera for Campus" [ref=e33] [cursor=pointer]:
+        - /url: /campus
+        - img "Coursera for Campus" [ref=e34]
+      - generic [ref=e35]:
+        - link "Why Coursera" [ref=e37] [cursor=pointer]:
+          - /url: ""
+          - text: Why Coursera
+          - img [ref=e39]
+        - link "Solutions" [ref=e42] [cursor=pointer]:
+          - /url: ""
+          - text: Solutions
+          - img [ref=e44]
+        - link "Resources" [ref=e47] [cursor=pointer]:
+          - /url: ""
+          - text: Resources
+          - img [ref=e49]
+        - link "Compare Plans" [ref=e52] [cursor=pointer]:
+          - /url: https://coursera.org/campus/compare-plans
+      - button "Contact Us" [ref=e55] [cursor=pointer]:
+        - generic [ref=e56]: Contact Us
+  - main [ref=e57]:
+    - generic [ref=e58]:
+      - button "Empower employability with online learning for universities Equip students with the most in-demand skills and prepare them for job success. Contact us See your options, compare plans 76% Students are 76% more likely to enroll in a degree program that offers industry micro-credentials 88% of employers believe that Professional Certificates strengthen a candidate’s job application 90% of students agree that a Professional Certificate will help them secure a job" [ref=e61] [cursor=pointer]:
+        - generic [ref=e66]:
+          - heading "Empower employability with online learning for universities" [level=1] [ref=e67]
+          - paragraph [ref=e70]: Equip students with the most in-demand skills and prepare them for job success.
+          - generic [ref=e71]:
+            - link "Contact us" [ref=e73]:
+              - /url: https://www.coursera.org/campus/learn-more
+              - generic [ref=e74]: Contact us
+            - paragraph [ref=e77]:
+              - text: See your options,
+              - link "compare plans" [ref=e78]:
+                - /url: https://www.coursera.org/campus/compare-plans
+                - paragraph [ref=e79]:
+                  - text: compare plans
+                  - img [ref=e80]
+        - generic [ref=e88]:
+          - generic [ref=e89]:
+            - generic [ref=e91]: 76%
+            - generic [ref=e92]: Students are 76% more likely to enroll in a degree program that offers industry micro-credentials
+          - generic [ref=e93]:
+            - generic [ref=e95]: 88%
+            - generic [ref=e96]: of employers believe that Professional Certificates strengthen a candidate’s job application
+          - generic [ref=e97]:
+            - generic [ref=e99]: 90%
+            - generic [ref=e100]: of students agree that a Professional Certificate will help them secure a job
+      - button "Offer students 10,600+ courses from 350+ leading universities and industry partners Thirty logos from well known companies & universities" [ref=e103] [cursor=pointer]:
+        - generic [ref=e107]:
+          - heading "Offer students 10,600+ courses from 350+ leading universities and industry partners" [level=2] [ref=e109]
+          - generic [ref=e111]:
+            - img "Thirty logos from well known companies & universities"
+      - 'button "Career Academy Prepare your students for in-demand jobs Strengthen student employability with skills training from the world''s leading companies. With Career Academy, enable your students to: Earn a Professional Certificate designed to get them job-ready Gain common job skills employers demand Showcase skill mastery with a portfolio of work Explore a range of in-demand roles across industries Learn more about Career Academy C4C Career Academy" [ref=e114] [cursor=pointer]':
+        - generic [ref=e118]:
+          - generic [ref=e119]:
+            - paragraph [ref=e120]: Career Academy
+            - heading "Prepare your students for in-demand jobs" [level=2] [ref=e121]
+            - generic [ref=e123]:
+              - paragraph [ref=e124]: Strengthen student employability with skills training from the world's leading companies.
+              - paragraph [ref=e125]: "With Career Academy, enable your students to:"
+            - list [ref=e126]:
+              - listitem [ref=e127]:
+                - img [ref=e128]
+                - generic [ref=e130]: Earn a Professional Certificate designed to get them job-ready
+              - listitem [ref=e131]:
+                - img [ref=e132]
+                - generic [ref=e134]: Gain common job skills employers demand
+              - listitem [ref=e135]:
+                - img [ref=e136]
+                - generic [ref=e138]: Showcase skill mastery with a portfolio of work
+              - listitem [ref=e139]:
+                - img [ref=e140]
+                - generic [ref=e142]: Explore a range of in-demand roles across industries
+            - link "Learn more about Career Academy" [ref=e145]:
+              - /url: https://www.coursera.org/campus/career-academy
+              - generic [ref=e146]:
+                - text: Learn more about Career Academy
+                - img [ref=e148]
+          - generic [ref=e151]:
+            - img "C4C Career Academy"
+      - button "Professional Certificates Learn why students and employers value Professional Certificates A survey of 5,000 students and employers in 11 countries finds that the majority value Professional Certificates for driving employment outcomes. Professional Certificates help students demonstrate to employers that they are qualified and job-ready. Use these insights to enhance your curriculum, and strengthen employment outcomes. Get report Micro-credentials Video Thumb" [ref=e154] [cursor=pointer]:
+        - generic [ref=e158]:
+          - generic [ref=e159]:
+            - paragraph [ref=e160]: Professional Certificates
+            - heading "Learn why students and employers value Professional Certificates" [level=2] [ref=e161]
+            - generic [ref=e163]:
+              - paragraph [ref=e164]: A survey of 5,000 students and employers in 11 countries finds that the majority value Professional Certificates for driving employment outcomes. Professional Certificates help students demonstrate to employers that they are qualified and job-ready.
+              - paragraph [ref=e165]: Use these insights to enhance your curriculum, and strengthen employment outcomes.
+            - link "Get report" [ref=e168]:
+              - /url: https://www.coursera.org/campus/resources/ebooks/industry-micro-credentials
+              - generic [ref=e169]:
+                - text: Get report
+                - img [ref=e171]
+          - generic [ref=e175]:
+            - img "Micro-credentials Video Thumb" [ref=e178]
+            - button [ref=e179]:
+              - img [ref=e180]
+      - button [ref=e186] [cursor=pointer]:
+        - generic [ref=e190]:
+          - generic [ref=e192]:
+            - heading "Expand your curriculum with a university learning platform that empowers faculty" [level=2] [ref=e193]
+            - paragraph [ref=e194]: Deliver practical, job-relevant learning experiences with professional content and courses from university and industry experts. Strengthen your university’s programs with a higher education learning platform that bridges academics and employability.
+          - generic [ref=e196]:
+            - generic [ref=e197]:
+              - img "Icon Website" [ref=e198]
+              - paragraph [ref=e199]: World-Class Content
+              - paragraph [ref=e200]: Connect students to a wide range of content from hundreds of industry leaders and universities.
+            - generic [ref=e201]:
+              - img "Guided Projects icon" [ref=e202]
+              - paragraph [ref=e203]: Guided Projects
+              - paragraph [ref=e204]: Give students hands-on projects and job-relevant experiences through a higher education learning platform that prepares them for career success.
+            - generic [ref=e205]:
+              - img "World-Class Content" [ref=e206]
+              - paragraph [ref=e207]: Professional Certificates
+              - paragraph [ref=e208]: Help your students grow job confidence, apply learning, and hone critical skills in high-growth fields.
+            - generic [ref=e209]:
+              - img "Integration icon" [ref=e210]
+              - paragraph [ref=e211]: LMS Integration
+              - paragraph [ref=e212]: Simplify teaching and learning by connecting Coursera to your learning management system for higher education for a seamless digital experience.
+      - button "Join colleges and universities worldwide that choose Coursera for Campus Tecnológico de Monterrey University of Michigan Imperial College London The University of Melbourne Manipal University NMIMS" [ref=e215] [cursor=pointer]:
+        - generic [ref=e219]:
+          - heading "Join colleges and universities worldwide that choose Coursera for Campus" [level=2] [ref=e222]
+          - list [ref=e225]:
+            - listitem [ref=e226]:
+              - img "Tecnológico de Monterrey"
+            - listitem [ref=e227]:
+              - img "University of Michigan"
+            - listitem [ref=e228]:
+              - img "Imperial College London"
+            - listitem [ref=e229]:
+              - img "The University of Melbourne"
+            - listitem [ref=e230]:
+              - img "Manipal University"
+            - listitem [ref=e231]:
+              - img "NMIMS"
+      - button "Here’s how innovative universities are using Coursera for Campus “ Coursera gives us confidence that we’re providing our students high-quality education that furthers their career opportunities. Without Coursera, we couldn’t become ‘University 4.0,’ because we couldn’t develop courses so quickly on our own. International Information Technology University (IITU) Yevgenia D. Vice-Rector for Science and International Collaboration International Information Technology University (IITU)" [ref=e234] [cursor=pointer]:
+        - generic [ref=e240]:
+          - heading "Here’s how innovative universities are using Coursera for Campus" [level=2] [ref=e241]
+          - paragraph [ref=e242]: “ Coursera gives us confidence that we’re providing our students high-quality education that furthers their career opportunities. Without Coursera, we couldn’t become ‘University 4.0,’ because we couldn’t develop courses so quickly on our own.
+          - generic [ref=e243]:
+            - generic [ref=e244]:
+              - img "International Information Technology University (IITU)"
+            - generic [ref=e245]:
+              - generic [ref=e246]: Yevgenia D.
+              - generic [ref=e247]: Vice-Rector for Science and International Collaboration
+              - generic [ref=e248]: International Information Technology University (IITU)
+      - 'button "Get in touch with our sales team Learn more about how you can: Connect curriculum to careers Strengthen employment outcomes Enhance learning experiences Join the innovative colleges and universities globally that choose Coursera for their students Tecnológico de Monterrey University of Michigan Imperial College London The University of Melbourne Manipal University NMIMS “No one professor or university can offer the breadth of choices students have with Coursera. And since they can find courses relevant to their industry, Coursera is a great bridge between the classroom and the workplace.” Ivey Business School Lameck O. Lecturer and IT project manager" [ref=e251] [cursor=pointer]':
+        - generic [ref=e255]:
+          - generic [ref=e257]:
+            - generic [ref=e261]:
+              - heading "Get in touch with our sales team" [level=2] [ref=e262]
+              - paragraph [ref=e265]: "Learn more about how you can:"
+              - list [ref=e266]:
+                - listitem [ref=e267]:
+                  - img [ref=e268]
+                  - generic [ref=e270]: Connect curriculum to careers
+                - listitem [ref=e271]:
+                  - img [ref=e272]
+                  - generic [ref=e274]: Strengthen employment outcomes
+                - listitem [ref=e275]:
+                  - img [ref=e276]
+                  - generic [ref=e278]: Enhance learning experiences
+            - generic [ref=e281]:
+              - heading "Join the innovative colleges and universities globally that choose Coursera for their students" [level=2] [ref=e284]
+              - list [ref=e287]:
+                - listitem [ref=e288]:
+                  - img "Tecnológico de Monterrey"
+                - listitem [ref=e289]:
+                  - img "University of Michigan"
+                - listitem [ref=e290]:
+                  - img "Imperial College London"
+                - listitem [ref=e291]:
+                  - img "The University of Melbourne"
+                - listitem [ref=e292]:
+                  - img "Manipal University"
+                - listitem [ref=e293]:
+                  - img "NMIMS"
+            - generic [ref=e298]:
+              - paragraph [ref=e299]: “No one professor or university can offer the breadth of choices students have with Coursera. And since they can find courses relevant to their industry, Coursera is a great bridge between the classroom and the workplace.”
+              - generic [ref=e300]:
+                - generic [ref=e301]:
+                  - img "Ivey Business School"
+                - generic [ref=e302]:
+                  - generic [ref=e303]: Lameck O.
+                  - generic [ref=e304]: Lecturer and IT project manager
+          - status [ref=e311]:
+            - img [ref=e313]
+      - 'button "The Micro-Credentials Impact Report 2025: Insights from Students and Employers Explore global data on career and academic outcomes, credit-bearing and GenAI credentials, and more. Get report Global Skills Report 2025 Discover the critical skills people need to thrive in a changing world. Explore insights drawn from 170M+ Coursera learners and key economic indices. Learn More EU AI Act Playbook Ensure your organisation is compliant with Article 4 of the EU AI Act and gain actionable insights to ensure teams use AI safely and ethically. Learn More" [ref=e319] [cursor=pointer]':
+        - generic [ref=e325]:
+          - 'link "The Micro-Credentials Impact Report 2025: Insights from Students and Employers Explore global data on career and academic outcomes, credit-bearing and GenAI credentials, and more. Get report" [ref=e326]':
+            - /url: https://www.coursera.org/enterprise/resources/ebooks/micro-credentials-report-2025
+            - generic [ref=e328]:
+              - 'heading "The Micro-Credentials Impact Report 2025: Insights from Students and Employers" [level=2] [ref=e329]'
+              - paragraph [ref=e330]: Explore global data on career and academic outcomes, credit-bearing and GenAI credentials, and more.
+              - button "Get report" [ref=e331]:
+                - generic [ref=e332]:
+                  - text: Get report
+                  - img [ref=e334]
+          - link "Global Skills Report 2025 Discover the critical skills people need to thrive in a changing world. Explore insights drawn from 170M+ Coursera learners and key economic indices. Learn More" [ref=e336]:
+            - /url: https://www.coursera.org/skills-reports/global
+            - generic [ref=e338]:
+              - heading "Global Skills Report 2025" [level=2] [ref=e339]
+              - paragraph [ref=e340]: Discover the critical skills people need to thrive in a changing world. Explore insights drawn from 170M+ Coursera learners and key economic indices.
+              - button "Learn More" [ref=e341]:
+                - generic [ref=e342]:
+                  - text: Learn More
+                  - img [ref=e344]
+          - link "EU AI Act Playbook Ensure your organisation is compliant with Article 4 of the EU AI Act and gain actionable insights to ensure teams use AI safely and ethically. Learn More" [ref=e346]:
+            - /url: https://www.coursera.org/enterprise/resources/ebook/eu-ai-act-playbook
+            - generic [ref=e348]:
+              - heading "EU AI Act Playbook" [level=2] [ref=e349]
+              - paragraph [ref=e350]: Ensure your organisation is compliant with Article 4 of the EU AI Act and gain actionable insights to ensure teams use AI safely and ethically.
+              - button "Learn More" [ref=e351]:
+                - generic [ref=e352]:
+                  - text: Learn More
+                  - img [ref=e354]
+      - generic:
+        - generic:
+          - button
+  - contentinfo [ref=e356]:
+    - contentinfo [ref=e357]:
+      - generic [ref=e359]:
+        - generic [ref=e362]:
+          - heading "Coursera" [level=3] [ref=e363]
+          - list [ref=e365]:
+            - listitem [ref=e366]:
+              - link "About" [ref=e367] [cursor=pointer]:
+                - /url: /about
+            - listitem [ref=e368]:
+              - link "What We Offer" [ref=e369] [cursor=pointer]:
+                - /url: /about/how-coursera-works/
+            - listitem [ref=e370]:
+              - link "Leadership" [ref=e371] [cursor=pointer]:
+                - /url: /about/leadership
+            - listitem [ref=e372]:
+              - link "Careers" [ref=e373] [cursor=pointer]:
+                - /url: https://careers.coursera.com/
+            - listitem [ref=e374]:
+              - link "Catalog" [ref=e375] [cursor=pointer]:
+                - /url: /browse
+            - listitem [ref=e376]:
+              - link "Coursera Plus" [ref=e377] [cursor=pointer]:
+                - /url: /courseraplus
+            - listitem [ref=e378]:
+              - link "Professional Certificates" [ref=e379] [cursor=pointer]:
+                - /url: /professional-certificate
+            - listitem [ref=e380]:
+              - link "MasterTrack® Certificates" [ref=e381] [cursor=pointer]:
+                - /url: /mastertrack
+            - listitem [ref=e382]:
+              - link "Degrees" [ref=e383] [cursor=pointer]:
+                - /url: /degrees
+            - listitem [ref=e384]:
+              - link "For Enterprise" [ref=e385] [cursor=pointer]:
+                - /url: /business?utm_campaign=website&utm_content=corp-to-home-footer-for-enterprise&utm_medium=coursera&utm_source=enterprise
+            - listitem [ref=e386]:
+              - link "For Government" [ref=e387] [cursor=pointer]:
+                - /url: /government?utm_campaign=website&utm_content=corp-to-home-footer-for-government&utm_medium=coursera&utm_source=enterprise
+            - listitem [ref=e388]:
+              - link "For Campus" [ref=e389] [cursor=pointer]:
+                - /url: /campus?utm_campaign=website&utm_content=corp-to-home-footer-for-campus&utm_medium=coursera&utm_source=enterprise
+            - listitem [ref=e390]:
+              - link "Become a Partner" [ref=e391] [cursor=pointer]:
+                - /url: https://partnerships.coursera.org/?utm_medium=coursera&utm_source=partnerships&utm_campaign=website&utm_content=corp-to-home-footer-become-a-partner
+            - listitem [ref=e392]:
+              - link "Social Impact" [ref=e393] [cursor=pointer]:
+                - /url: /social-impact
+        - generic [ref=e396]:
+          - heading "Community" [level=3] [ref=e397]
+          - list [ref=e399]:
+            - listitem [ref=e400]:
+              - link "Learners" [ref=e401] [cursor=pointer]:
+                - /url: https://www.coursera.community
+            - listitem [ref=e402]:
+              - link "Partners" [ref=e403] [cursor=pointer]:
+                - /url: https://www.coursera.org/partners
+            - listitem [ref=e404]:
+              - link "Beta Testers" [ref=e405] [cursor=pointer]:
+                - /url: https://www.coursera.support/s/article/360000152926-Become-a-Coursera-beta-tester
+            - listitem [ref=e406]:
+              - link "Blog" [ref=e407] [cursor=pointer]:
+                - /url: https://blog.coursera.org
+            - listitem [ref=e408]:
+              - link "The Coursera Podcast" [ref=e409] [cursor=pointer]:
+                - /url: https://open.spotify.com/show/58M36bneU7REOofdPZxe6A
+            - listitem [ref=e410]:
+              - link "Tech Blog" [ref=e411] [cursor=pointer]:
+                - /url: https://medium.com/coursera-engineering
+        - generic [ref=e414]:
+          - heading "More" [level=3] [ref=e415]
+          - list [ref=e417]:
+            - listitem [ref=e418]:
+              - link "Press" [ref=e419] [cursor=pointer]:
+                - /url: /about/press
+            - listitem [ref=e420]:
+              - link "Investors" [ref=e421] [cursor=pointer]:
+                - /url: https://investor.coursera.com
+            - listitem [ref=e422]:
+              - link "Terms" [ref=e423] [cursor=pointer]:
+                - /url: /about/terms
+            - listitem [ref=e424]:
+              - link "Privacy" [ref=e425] [cursor=pointer]:
+                - /url: /about/privacy
+            - listitem [ref=e426]:
+              - link "Help" [ref=e427] [cursor=pointer]:
+                - /url: https://learner.coursera.help/hc
+            - listitem [ref=e428]:
+              - link "Accessibility" [ref=e429] [cursor=pointer]:
+                - /url: https://learner.coursera.help/hc/articles/360050668591-Accessibility-Statement
+            - listitem [ref=e430]:
+              - link "Contact" [ref=e431] [cursor=pointer]:
+                - /url: /about/contact
+            - listitem [ref=e432]:
+              - link "Articles" [ref=e433] [cursor=pointer]:
+                - /url: https://www.coursera.org/articles
+            - listitem [ref=e434]:
+              - link "Directory" [ref=e435] [cursor=pointer]:
+                - /url: /directory
+            - listitem [ref=e436]:
+              - link "Affiliates" [ref=e437] [cursor=pointer]:
+                - /url: /about/affiliates
+            - listitem [ref=e438]:
+              - link "Modern Slavery Statement" [ref=e439] [cursor=pointer]:
+                - /url: https://coursera_assets.s3.amazonaws.com/footer/Modern+Slavery+Statement+(approved+March+26%2C+2025).pdf
+            - listitem [ref=e440]:
+              - link "Cookies Preference Center" [ref=e441] [cursor=pointer]:
+                - /url: /about/cookies-manage
+        - generic [ref=e444]:
+          - heading "Mobile App" [level=3] [ref=e445]
+          - generic [ref=e446]:
+            - link "Download on the App Store":
+              - /url: https://itunes.apple.com/app/apple-store/id736535961?pt=2334150&ct=Coursera%20Web%20Promo%20Banner&mt=8
+              - img "Download on the App Store" [ref=e448] [cursor=pointer]
+            - link "Get it on Google Play":
+              - /url: http://play.google.com/store/apps/details?id=org.coursera.android
+              - img "Get it on Google Play" [ref=e450] [cursor=pointer]
+          - img "Logo of Certified B Corporation" [ref=e453]
+        - generic [ref=e454]:
+          - generic [ref=e456]: © 2026 Coursera Inc. All rights reserved.
+          - list [ref=e458]:
+            - listitem [ref=e459]:
+              - link "Coursera Facebook":
+                - /url: https://www.facebook.com/Coursera
+                - generic:
+                  - img "Coursera Facebook"
+            - listitem [ref=e460]:
+              - link "Coursera LinkedIn":
+                - /url: https://www.linkedin.com/company/coursera
+                - generic:
+                  - img "Coursera LinkedIn"
+            - listitem [ref=e461]:
+              - link "Coursera Twitter":
+                - /url: https://twitter.com/coursera
+                - generic:
+                  - img "Coursera Twitter"
+            - listitem [ref=e462]:
+              - link "Coursera YouTube":
+                - /url: https://www.youtube.com/user/coursera
+                - generic:
+                  - img "Coursera YouTube"
+            - listitem [ref=e463]:
+              - link "Coursera Instagram":
+                - /url: https://www.instagram.com/coursera/
+                - generic:
+                  - img "Coursera Instagram"
+```

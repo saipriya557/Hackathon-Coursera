@@ -1,0 +1,2 @@
+[LOG]: Scenario started1
+[LOG]: Scenario finished1

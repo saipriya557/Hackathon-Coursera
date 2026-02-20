@@ -73,7 +73,7 @@ test.afterAll(async () => {
   }
 });
 
-test('Plus: open and log pricing', async () => {
+test('@smoke @sanity Plus: open and log pricing', async () => {
   try {
     await home.goto();
     await home.openCourseraPlus();
@@ -85,7 +85,7 @@ test('Plus: open and log pricing', async () => {
   }
 });
 
-test('Plus: validate pricing again', async () => {
+test('@sanity Plus: validate pricing again', async () => {
   try {
     const prices = await plusPage.getPricing();
     prices.forEach(p => Logger.log(p ?? ''));

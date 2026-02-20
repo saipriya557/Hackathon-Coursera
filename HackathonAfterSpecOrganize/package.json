@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "smoke": "npx playwright test -g smoke",
+    "sanity": "npx playwright test -g sanity",
+    "testall": "npx playwright test"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
