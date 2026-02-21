@@ -1,0 +1,4 @@
+[LOG]: ₹1,699
+[LOG]: ₹2,099
+[LOG]: ₹13,999
+[LOG]: Scenario finished4
